@@ -146,4 +146,21 @@ You will be prompted to enter your WXO API key.
 
 ---
 
+##  Step 3a – Distributed Lab Track Configuration
+
+### RedHat / Quay.io
+
+Create a free trial on Quay.io
+[Download Quay.io](--)
+
+---
+
+##  Step 3b – Mainframe Lab Track Configuration
+
+### Ansible
+
+Make sure you have access to Ansible
+[Download Ansible](--)
+
+--- 
 Congratulations! You are ready to now move into Agent Creation during the Hands-On Lab Session!
