@@ -62,20 +62,28 @@ _IMPORTANT: Your email address becomes your IBMid, which you will use to access 
 
 ##  Step 2 - Local Machine Setup
 
-  - [Step 1 – Install Python 3.11+](#step-1--install-python-311)
+  - [Step 1 – Install Python 3.11+, Docker/Podman, & Github](#step-1--install-python-311-,-docker/podman-,-&-github)
   - [Step 2 – Clone the Repository](#step-2--clone-the-repository)
   - [Step 3 – Navigate into the Project Folder](#step-3--navigate-into-the-project-folder)
   - [Step 4 – Create and Activate a Virtual Environment](#step-4--create-and-activate-a-virtual-environment)
   - [Step 5 – Install and Validate ADK](#step-5--install-and-validate-adk)
-  - [Step 7 – Activate Environment](#step-8--activate-environment)
+  - [Step 6 – Activate Environment](#step-8--activate-environment)
 
 ---
 
-### Step 1 – Install Python 3.11+
+### Step 1 – Install Python 3.11+, Docker/Podman, & Github
 *We need a compatible Python version because the watsonx Orchestrate ADK relies on modern language features and libraries that are only supported in Python 3.11 or higher*.
 
 Make sure **Python 3.11 or above** (up to 3.13) is installed. 
 [Download Python](https://www.python.org/downloads/)
+
+If you do not have it already ensure that you install either Docker or Podman.
+[Download Podman](https://podman.io/)
+[Download Docker](https://docs.docker.com/desktop/setup/install/mac-install/)
+
+Finally ensure you have Github downloaded and you have an account.
+[Download Github Desktop](https://desktop.github.com/download/)
+
 
 ---
 
@@ -126,33 +134,7 @@ orchestrate --version
 
 ---
 
-### Step 6 – Add Your Environment
-
-1. Go to https://techzone.ibm.com/my/reservations  
-2. Under watsonx Orchestrate Trial/Standard plan, click Open this environment.  
-
- <p align="center">
-  <img src="images/my_res.png" width=800px/>
-</p>
-  
-3. Check your Cloud Account Number and click on IBM Cloud Login to sign in with your IBMiD for access to watsonx Orchestrate.
-
- ![env_details](images/environment_details.png)
-
-4. Ensure you are in same IBM Cloud Account as indicated in the Techzone reservation.    
-In the hamburger menu in the top left click to open the Resource List, expand AI / Machine Learning, and click on the Watson Orchestrate-itz resource.  
-  ![env_details](images/resources.png)
-
-5. Run the following command in your terminal with the information on the Orchestrate landing page to add your environment.
-Replace `<service-instance-url>` with your Watsonx Orchestrate URL and `<name>` with any name (e.g., Itops):
-```bash
-orchestrate env add -n <name> -u <service-instance-url>
-```
-  ![env_details](images/orchestrate_launch_page.png)
-
----
-
-### Step 8 – Activate Environment
+### Step 6 – Activate Environment
 Generate an API key using the instructions (upto step 8) on this page section IBM Cloud:
 https://developer.watson-orchestrate.ibm.com/environment/production_import#ibm-cloud
 
@@ -164,5 +146,4 @@ You will be prompted to enter your WXO API key.
 
 ---
 
-Congratulations! You are ready to now move into Agent Creation!
- [Find the lab here](https://github.ibm.com/ibm-us-fsm-ce/agentic-ai-for-itops/blob/main/Distributed%20Platforms/Lab%203%20-%20Deploy%20%26%20Test.md)
+Congratulations! You are ready to now move into Agent Creation during the Hands-On Lab Session!
