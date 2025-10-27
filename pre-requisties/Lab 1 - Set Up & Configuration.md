@@ -25,6 +25,12 @@ Customize your setup based on your selected lab track.
 ## Table of Contents
 ### Set Up & Configuration Step-by-Step Guide
 
+- [Step 1 – IBM Enviornment Access](#step-1--IBM-Enviornment-access)
+- [Step 2 – Local Machine Setup](#step-2--local-machine-setup)
+- [Step 3a – Distributed Lab Track Configuration](#step-3a--distributed-lab-track-configuration)
+- [Step 3b – Mainframe Lab Track Configuration](#step-3b--mainframe-lab-track-configuration)
+
+
   - [Step 1 – Install Python 3.11+](#step-1--install-python-311)
   - [Step 2 – Clone the Repository](#step-2--clone-the-repository)
   - [Step 3 – Navigate into the Project Folder](#step-3--navigate-into-the-project-folder)
