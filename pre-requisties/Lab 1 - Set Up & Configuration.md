@@ -63,7 +63,7 @@ aishwarya.hariharan@ibm.com
 #### 4. Confirm watsonx Orchestrate Access
 **Once you have completed these steps, verify your watsonx Orchestrate access with these steps:<br>** 
   - On the IBM Cloud landing page, click the top left navigation menu (hamburger menu) and select **Resource List**.<br>
-       _Note: If you are a member of multiple IBM Cloud accounts, make sure you are working in the correct account which has the required services available.<br>_
+       _NOTE: If you are a member of multiple IBM Cloud accounts, make sure you are working in the correct account which has the required services available.<br>_
   - On the Resource List page, expand the AI / Machine Learning section, and click the watsonx Orchestrate service name.<br>
   - Click **Launch** watsonx Orchestrate to launch the service.<br>
 
@@ -100,7 +100,7 @@ GitHub Repo - Create an account on Github if you don't have one. This account wi
 In your terminal enter the following:
 
 ```bash
-git clone https://github.ibm.com/ibm-us-fsm-ce/AgenticAIforITOps.git
+git clone <gitrepo>
 ```
 
 *Cloning the repo gives you access to all the pre-built scripts, YAML files, and configurations required for agent creation and orchestration.*
@@ -112,7 +112,7 @@ git clone https://github.ibm.com/ibm-us-fsm-ce/AgenticAIforITOps.git
 To ensure you are in the correct place, in your terminal enter the following:
 
 ```bash
-cd AgenticAIforITOps/Distributed\ Platforms/
+cd AgenticAIforITOps/<HandsonLab\ Track>
 ```
 ---
 
