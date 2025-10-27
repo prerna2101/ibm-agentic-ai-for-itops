@@ -87,12 +87,13 @@ Make sure **Python 3.11 or above** (up to 3.13) is installed.
 [Download Python](https://www.python.org/downloads/)
 
 If you do not have it already ensure that you install either Docker or Podman.
-[Download Podman](https://podman.io/)
+[Download Podman](https://podman.io/) OR
 [Download Docker](https://docs.docker.com/desktop/setup/install/mac-install/)
 
 Finally ensure you have Github downloaded and you have an account.
-[Download Github Desktop](https://desktop.github.com/download/)
 
+GitHub Repo - Create an account on Github if you don't have one. This account will be used to update a sample repository during the lab. 
+[Create Account](https://github.com)
 
 ---
 
@@ -160,13 +161,7 @@ You will be prompted to enter your WXO API key.
 ### RedHat / Quay.io
 Create a free account on Quay.io by hitting "Sign In with Red Hat" and creating a RedHat account
 
-https://quay.io/repository/
-
-### GitHub Repo
-
-Create an account on Github if you don't have one. This account will be used to update a sample repository during the lab. 
-
-https://github.com
+[Create Account](https://quay.io/repository/)
 
 --- 
 Congratulations! You are ready to now move into Agent Creation during the Hands-On Lab Session!
