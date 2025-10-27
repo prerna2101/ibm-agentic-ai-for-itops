@@ -72,16 +72,16 @@ aishwarya.hariharan@ibm.com
 
 ##  Step 2 - Local Machine Setup
 
-  - [Step 1 – Install Python 3.11+, Docker/Podman, & Github](#step-1--install-python-311-,-docker/podman-,-&-github)
-  - [Step 2 – Clone the Repository](#step-2--clone-the-repository)
-  - [Step 3 – Navigate into the Project Folder](#step-3--navigate-into-the-project-folder)
-  - [Step 4 – Create and Activate a Virtual Environment](#step-4--create-and-activate-a-virtual-environment)
-  - [Step 5 – Install and Validate ADK](#step-5--install-and-validate-adk)
-  - [Step 6 – Activate Environment](#step-8--activate-environment)
+  - [1 – Install Python 3.11+, Docker/Podman, & Github](#1--install-python-311-,-docker/podman-,-&-github)
+  - [2 – Clone the Repository](#2--clone-the-repository)
+  - [3 – Navigate into the Project Folder](#3--navigate-into-the-project-folder)
+  - [4 – Create and Activate a Virtual Environment](#4--create-and-activate-a-virtual-environment)
+  - [5 – Install and Validate ADK](#5--install-and-validate-adk)
+  - [6 – Activate Environment](#6--activate-environment)
 
 ---
 
-### Step 1 – Install Python 3.11+, Docker/Podman, & Github
+### 1 – Install Python 3.11+, Docker/Podman, & Github
 *We need a compatible Python version because the watsonx Orchestrate ADK relies on modern language features and libraries that are only supported in Python 3.11 or higher*.
 
 Make sure **Python 3.11 or above** (up to 3.13) is installed. 
@@ -97,7 +97,7 @@ Finally ensure you have Github downloaded and you have an account.
 
 ---
 
-### Step 2 – Clone the Repository
+### 2 – Clone the Repository
 
 In your terminal enter the following:
 
@@ -109,7 +109,7 @@ git clone https://github.ibm.com/ibm-us-fsm-ce/AgenticAIforITOps.git
 
 ---
 
-### Step 3 – Navigate into the Project Folder
+### 3 – Navigate into the Project Folder
 
 To ensure you are in the correct place, in your terminal enter the following:
 
@@ -118,7 +118,7 @@ cd AgenticAIforITOps/Distributed\ Platforms/
 ```
 ---
 
-### Step 4 – Create and Activate a Virtual Environment
+### 4 – Create and Activate a Virtual Environment
 
 In your terminal now enter: 
 
@@ -130,7 +130,7 @@ source envadk/bin/activate
 
 ---
 
-### Step 5 – Install and Validate ADK
+### 5 – Install and Validate ADK
 
 Enter the following commands into your terminal:
 
@@ -144,7 +144,7 @@ orchestrate --version
 
 ---
 
-### Step 6 – Activate Environment
+### 6 – Activate Environment
 Generate an API key using the instructions (upto step 8) on this page section IBM Cloud:
 https://developer.watson-orchestrate.ibm.com/environment/production_import#ibm-cloud
 
