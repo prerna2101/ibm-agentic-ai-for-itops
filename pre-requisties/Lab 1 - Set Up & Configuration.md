@@ -19,7 +19,7 @@ Prepare your personal device with the necessary tools and packages.
 
 ## 3. Lab Track Configuration - Distributed Only
 Customize your setup based on your selected lab track.
-- Follow the track-specific pre-requisites for additional setup steps.
+
 ---
 
 ## Table of Contents
@@ -89,8 +89,6 @@ Make sure **Python 3.11 or above** (up to 3.13) is installed.
 If you do not have it already ensure that you install either Docker or Podman.
 [Download Podman](https://podman.io/) OR
 [Download Docker](https://docs.docker.com/desktop/setup/install/mac-install/)
-
-Finally ensure you have Github downloaded and you have an account.
 
 GitHub Repo - Create an account on Github if you don't have one. This account will be used to update a sample repository during the lab. 
 [Create Account](https://github.com)
