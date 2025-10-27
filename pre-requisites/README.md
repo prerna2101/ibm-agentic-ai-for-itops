@@ -1,4 +1,4 @@
-#README.md
+# README.md
 
 To ensure a smooth and productive experience during the IBM TechXchange Workshop: Agentic AI for ITOps, all participants must complete the following setup steps prior to the event on November 6.
 
