@@ -45,7 +45,12 @@ Customize your setup based on your selected lab track.
   - **An email will be sent indicating that your IBMid account creation was successful and your account is now activated**.<br>
 ---
 #### 2. Email Confirmation
+
 **Email Aishwarya Hariharan to confirm you have registered and received the IBMid.**
+```
+aishwarya.hariharan@ibm.com
+```
+
 ---
 #### 3. Join IBM Cloud Account
 **Please follow the instructions here as a part of the prerequisites to ensure that you can access to watsonX orchestrate during the event.<br>**
