@@ -159,9 +159,15 @@ You will be prompted to enter your WXO API key.
 ##  Step 3a – Distributed Lab Track Configuration
 
 ### RedHat / Quay.io
-
 Create a free account on Quay.io by hitting "Sign In with Red Hat" and creating a RedHat account
+
 https://quay.io/repository/
+
+### GitHub Repo
+
+Create an account on Github if you don't have one. This account will be used to update a sample repository during the lab. 
+
+https://github.com
 
 ---
 
