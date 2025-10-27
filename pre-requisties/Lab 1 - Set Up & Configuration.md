@@ -17,7 +17,7 @@ Prepare your personal device with the necessary tools and packages.
 - Set up the Agent Development Kit (ADK)
 - Verify that your system meets the minimum requirements
 
-## 3. Lab Track Configuration
+## 3. Lab Track Configuration - Distributed Only
 Customize your setup based on your selected lab track.
 - Follow the track-specific pre-requisites for additional setup steps.
 ---
@@ -27,8 +27,7 @@ Customize your setup based on your selected lab track.
 
 - [Step 1 – IBM Enviornment Access](#step-1--IBM-Enviornment-access)
 - [Step 2 – Local Machine Setup](#step-2--local-machine-setup)
-- [Step 3a – Distributed Lab Track Configuration](#step-3a--distributed-lab-track-configuration)
-- [Step 3b – Mainframe Lab Track Configuration](#step-3b--mainframe-lab-track-configuration)
+- [Step 3 – Distributed Lab Track Configuration](#step-3a--distributed-lab-track-configuration)
 ---
 ##  Step 1 – IBM Enviornment Access  
 
@@ -156,7 +155,7 @@ You will be prompted to enter your WXO API key.
 
 ---
 
-##  Step 3a – Distributed Lab Track Configuration
+##  Step 3 – Distributed Lab Track Configuration
 
 ### RedHat / Quay.io
 Create a free account on Quay.io by hitting "Sign In with Red Hat" and creating a RedHat account
@@ -168,12 +167,6 @@ https://quay.io/repository/
 Create an account on Github if you don't have one. This account will be used to update a sample repository during the lab. 
 
 https://github.com
-
----
-
-##  Step 3b – Mainframe Lab Track Configuration
-
-### NA
 
 --- 
 Congratulations! You are ready to now move into Agent Creation during the Hands-On Lab Session!
