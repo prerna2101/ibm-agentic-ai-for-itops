@@ -61,7 +61,7 @@ aishwarya.hariharan@ibm.com
        _NOTE: If you have another account on IBM cloud, you will see a popup asking if you can be switched to this account. Go ahead and click Proceed._
   - Once logged in, confirm that you are in the right IBM Cloud account. This should match the account details from the IBM Cloud email.<br>
 ---
-#### 3. Confirm watsonx Orchestrate Access
+#### 4. Confirm watsonx Orchestrate Access
 **Once you have completed these steps, verify your watsonx Orchestrate access with these steps:<br>** 
   - On the IBM Cloud landing page, click the top left navigation menu (hamburger menu) and select **Resource List**.<br>
        _Note: If you are a member of multiple IBM Cloud accounts, make sure you are working in the correct account which has the required services available.<br>_
