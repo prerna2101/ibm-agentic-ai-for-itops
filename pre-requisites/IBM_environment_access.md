@@ -4,7 +4,7 @@
 1. To access an environment for the lab, please follow the instructions here as a part of the pre requisites.<br>
   a. Start by accessing the IBMid registration page.<br>
   b. Enter the required information in the fields provided, such as email address, name, company, and country.<br>
-    - IMPORTANT: Your email address becomes your IBMid, which you will use to access the bootcamp environment!<br>
+ - IMPORTANT: Your email address becomes your IBMid, which you will use to access the bootcamp environment!<br>
   c. Click the Next button. You will receive an email containing a one-time verification code.<br>
   d.	Go back to the registration page, enter the code that is provided in the email in the Verification Token field.<br>
   e.	Click Submit to create an account.<br>
