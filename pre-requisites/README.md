@@ -18,5 +18,4 @@ Prepare your personal device with the necessary tools and packages.
 
 3. Lab Track Configuration
 Customize your setup based on your selected lab track.
-
-Follow the track-specific pre-requisites for additional setup steps.
+- Follow the track-specific pre-requisites for additional setup steps.
