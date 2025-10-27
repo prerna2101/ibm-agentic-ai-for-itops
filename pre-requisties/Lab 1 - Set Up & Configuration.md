@@ -35,13 +35,13 @@ Customize your setup based on your selected lab track.
 ### IBMid Creation Instructions
 
 1. To access an environment for the lab, please follow the instructions here as a part of the pre requisites.<br>
-  a. Start by accessing the IBMid registration page.<br>
-  b. Enter the required information in the fields provided, such as email address, name, company, and country.<br>
-_IMPORTANT: Your email address becomes your IBMid, which you will use to access the bootcamp environment!<br>_
-  c. Click the Next button. You will receive an email containing a one-time verification code.<br>
-  d.	Go back to the registration page, enter the code that is provided in the email in the Verification Token field.<br>
-  e.	Click Submit to create an account.<br>
-  f.	An email will be sent indicating that your IBMid account creation was successful and your account is now activated.<br>
+  - Start by accessing the IBMid registration page. [IBMid Creation](https://www.ibm.com/account/reg/us-en/signup?formid=urx-19776)<br>
+  - Enter the required information in the fields provided, such as email address, name, company, and country.<br>
+    _IMPORTANT: Your email address becomes your IBMid, which you will use to access the bootcamp environment!<br>_
+  - Click the Next button. You will receive an email containing a one-time verification code.<br>
+  - Go back to the registration page, enter the code that is provided in the email in the Verification Token field.<br>
+  - Click Submit to create an account.<br>
+  - **An email will be sent indicating that your IBMid account creation was successful and your account is now activated**.<br>
 ---
 ### Environment Access Instructions<br>
 2.	Email Aishwarya Hariharan to confirm you have registered and received the IBMid.<br>
