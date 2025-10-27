@@ -160,17 +160,14 @@ You will be prompted to enter your WXO API key.
 
 ### RedHat / Quay.io
 
-Create a free trial on Quay.io
-[Download Quay.io](--)
+Create a free account on Quay.io by hitting "Sign In with Red Hat" and creating a RedHat account
+https://quay.io/repository/
 
 ---
 
 ##  Step 3b – Mainframe Lab Track Configuration
 
-### Ansible
-
-Make sure you have access to Ansible
-[Download Ansible](--)
+### NA
 
 --- 
 Congratulations! You are ready to now move into Agent Creation during the Hands-On Lab Session!
