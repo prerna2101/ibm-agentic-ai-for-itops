@@ -13,7 +13,7 @@ Set up your IBM credentials and platform access to participate in the hands-on l
 
 ## 2. Local Machine Setup
 Prepare your personal device with the necessary tools and packages.
-- Install Python (recommended version will be specified)
+- Install Python, Git, and Podman/Docker
 - Set up the Agent Development Kit (ADK)
 - Verify that your system meets the minimum requirements
 
