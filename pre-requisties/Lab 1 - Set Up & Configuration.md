@@ -1,5 +1,5 @@
 # Lab 1 - Set Up & Configuration
-## ITOPs Agents using IBM watsonx Orchestrate ADK
+## ITOps Agents using IBM watsonx Orchestrate ADK
 
 To ensure a smooth and productive experience during the IBM TechXchange Workshop: Agentic AI for ITOps, all participants must complete the following setup steps prior to the event on November 6.
 
