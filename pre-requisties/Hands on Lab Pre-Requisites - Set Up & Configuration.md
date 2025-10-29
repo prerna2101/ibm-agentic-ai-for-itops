@@ -161,5 +161,11 @@ Create a free account on Quay.io by hitting "Sign In with Red Hat" and creating 
 
 [Create Account](https://quay.io/repository/)
 
+
+### GitHub
+Create an account on GitHub if you don't already have one
+
+[GitHub Account](https://github.com)
+
 --- 
 Congratulations! You are ready to now move into Agent Creation during the Hands-On Lab Session!
