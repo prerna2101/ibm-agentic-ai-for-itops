@@ -167,24 +167,25 @@ In the API keys menu, click Create button.
 
 ![CreateKey](images/CreateKey.png)
 
-In the Create IBM Cloud API key page, enter a name and description for your API Key.
-
-In the Leaked key section, select delete if a key is discovered.
-
-In the Select creation section, choose no for if the API key should create a session in the CLI.
+In the Create IBM Cloud API key page do the following:
+- Enter a name and description for your API Key.
+- In the Leaked key section, select delete if a key is discovered.
+- In the Select creation section, choose no for if the API key should create a session in the CLI.
 
 ![KeyInformation](images/KeyInformation.png)
 
 Go back to your terminal session and run the folowing command:
 
-Replace <environment-name> with a name of your choice for your environment and <Service-instance-url> with the service instance URL you copied earlier.
+**Replace <environment-name> with a name of your choice for your environment and <Service-instance-url> with the service instance URL you copied earlier.**
 
 ```bash
 orchestrate env add -n <environment-name> -u <Service-instance-url>
 
 orchestrate env activate <environment-name> -u <Service-instance-url>
 ```
-You will be prompted to enter your WXO API key. Paste the API key you created above in the terminal and hit Enter on your keyboard to confirm. If everything works, you will get a message that the environment has been successfully created as is already activated. 
+You will be prompted to enter your WXO API key. Paste the API key you created above in the terminal and hit Enter on your keyboard to confirm. 
+
+If everything works, you will get a message that the environment has been successfully created as is already activated. 
 
 ---
 
