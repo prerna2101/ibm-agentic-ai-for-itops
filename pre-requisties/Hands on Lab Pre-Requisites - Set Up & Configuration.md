@@ -28,6 +28,7 @@ Customize your setup based on your selected lab track.
 - [Step 1 – IBM Enviornment Access](#step-1--IBM-Enviornment-access)
 - [Step 2 – Local Machine Setup](#step-2--local-machine-setup)
 - [Step 3 – Distributed Lab Track Configuration](#step-3a--distributed-lab-track-configuration)
+  
 ---
 ##  Step 1 – IBM Enviornment Access  
 
