@@ -164,11 +164,15 @@ As highlighted by the red arrow in the screenshot below, click on the Generate A
 
 In the API keys menu, click Create button.
 
+![CreateKey](images/CreateKey.png)
+
 In the Create IBM Cloud API key page, enter a name and description for your API Key.
 
-In the Leaked key section, select either to disable, delete, or not take any action if a key is discovered.
+In the Leaked key section, select delete if a key is discovered.
 
-In the Select creation section, choose whether the API key should create a session in the CLI or not.
+In the Select creation section, choose no for if the API key should create a session in the CLI.
+
+![KeyInformation](images/KeyInformation.png)
 
 Go back to your terminal session and run the folowing command:
 
