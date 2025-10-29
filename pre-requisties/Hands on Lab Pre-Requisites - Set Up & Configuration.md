@@ -140,10 +140,16 @@ orchestrate --version
 ---
 
 ### 6 – Activate Environment
-Generate an API key using the instructions (upto step 8) on this page section IBM Cloud:
-https://developer.watson-orchestrate.ibm.com/environment/production_import#ibm-cloud
+Generate an API key using the instructions below:
 
+Login in to your IBM Cloud account.
+In the Manage menu, select Access (IAM).
+In the API keys menu, click Create button.
+In the Create IBM Cloud API key page, enter a name and description for your API Key.
+In the Leaked key section, select either to disable, delete, or not take any action if a key is discovered.
+In the Select creation section, choose whether the API key should create a session in the CLI or not.
 Run the following command to activate your environment.  
+
 ```bash
 orchestrate env activate <name>
 ```
