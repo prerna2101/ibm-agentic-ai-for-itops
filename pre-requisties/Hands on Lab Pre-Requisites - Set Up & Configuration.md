@@ -151,14 +151,12 @@ If everything is set up correctly, you’ll see a list of available ADK CLI comm
 Now that you've installed the ADK, it's time to connect it to your watsonx Orchestrate SaaS instance so that you can deploy your agents directly to your SaaS environment.
 
 To do so, generate an API key using the instructions below:
-
-On the top right of your watsonX Orchestrate Launch page, click on your initials.
-
-In the menu, click on Settings, as highlighted in the image below. 
+- On the top right of your watsonX Orchestrate Launch page, click on your initials.
+- In the menu, click on Settings, as highlighted in the image below. 
 
 ![APIKey](images/APIKey.png)
 
-You will be routed to the Settings page on the platform. Click on the API details tab. 
+- You will be routed to the Settings page on the platform. Click on the API details tab. 
 
 As highlighted by the red arrow in the screenshot below, click on the Generate API Key blue button. Also here, copy and save the service instance URL (as shown in the red box) - you will need this later. 
 
