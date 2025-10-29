@@ -96,6 +96,7 @@ In your terminal enter the following:
 ```bash
 git clone <gitrepo>
 ```
+**NOTE: If you do not have Git you will need to get free Git CLI from - https://git-scm.com/**
 
 *Cloning the repo gives you access to all the pre-built scripts, YAML files, and configurations required for agent creation and orchestration.*
 
