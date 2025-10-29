@@ -72,7 +72,7 @@ aishwarya.hariharan@ibm.com
 
 ##  Step 2 - Local Machine Setup
 
-  - [1 – Install Python 3.11+ & Docker/Podman ](#1--install-python-311-&-docker/podman)
+  - [1 – Install Python 3.11+](#1--install-python-311+)
   - [2 – Clone the Repository](#2--clone-the-repository)
   - [3 – Navigate into the Project Folder](#3--navigate-into-the-project-folder)
   - [4 – Create and Activate a Virtual Environment](#4--create-and-activate-a-virtual-environment)
@@ -81,15 +81,11 @@ aishwarya.hariharan@ibm.com
 
 ---
 
-### 1 – Install Python 3.11+ & Docker/Podman 
+### 1 – Install Python 3.11+
 *We need a compatible Python version because the watsonx Orchestrate ADK relies on modern language features and libraries that are only supported in Python 3.11 or higher*.
 
 Make sure **Python 3.11 or above** (up to 3.13) is installed. 
 [Download Python](https://www.python.org/downloads/)
-
-If you do not have it already ensure that you install either Docker or Podman.
-[Download Podman](https://podman.io/) OR
-[Download Docker](https://docs.docker.com/desktop/setup/install/mac-install/)
 
 ---
 
