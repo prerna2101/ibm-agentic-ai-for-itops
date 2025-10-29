@@ -128,20 +128,41 @@ Enter the following commands into your terminal:
 
 ```bash
 pip install ibm-watsonx-orchestrate
-pip install --upgrade ibm-watsonx-orchestrate
 
 orchestrate --version
 ```
+
+After you are done with the installation process, check if your instance is working properly with the command:
+
+```bash
+orchestrate --help
+```
+
+If everything is set up correctly, you’ll see a list of available ADK CLI commands, like in the following screenshot.
+
+![Help](images/orchestrate_help.png)
+
 *Installing the watsonx Orchestrate ADK provides the core tools for building and managing agents.* 
 
 ---
 
 ### 6 – Activate Environment
-Generate an API key using the instructions below:
 
-Login in to your IBM Cloud account.
+Now that you've installed the ADK, it's time to connect it to your watsonx Orchestrate SaaS instance so that you can deploy your agents directly to your SaaS environment.
 
-In the Manage menu, select Access (IAM).
+To do so, generate an API key using the instructions below:
+
+On the top right of your watsonX Orchestrate Launch page, click on your initials.
+
+In the menu, click on Settings, as highlighted in the image below. 
+
+![APIKey](images/APIKey.png)
+
+You will be routed to the Settings page on the platform. Click on the API details tab. 
+
+As highlighted by the red arrow in the screenshot below, click on the Generate API Key blue button. Also here, copy and save the service instance URL (as shown in the red box) - you will need this later. 
+
+![ServiceURL](images/ServiceUrl.png)
 
 In the API keys menu, click Create button.
 
@@ -151,13 +172,16 @@ In the Leaked key section, select either to disable, delete, or not take any act
 
 In the Select creation section, choose whether the API key should create a session in the CLI or not.
 
-Run the following command to activate your environment.  
+Go back to your terminal session and run the folowing command:
 
+Replace <environment-name> with a name of your choice for your environment and <Service-instance-url> with the service instance URL you copied earlier.
 
 ```bash
-orchestrate env activate <name>
+orchestrate env add -n <environment-name> -u <Service-instance-url>
+
+orchestrate env activate <environment-name> -u <Service-instance-url>
 ```
-You will be prompted to enter your WXO API key.
+You will be prompted to enter your WXO API key. Paste the API key you created above in the terminal and hit Enter on your keyboard to confirm. If everything works, you will get a message that the environment has been successfully created as is already activated. 
 
 ---
 
