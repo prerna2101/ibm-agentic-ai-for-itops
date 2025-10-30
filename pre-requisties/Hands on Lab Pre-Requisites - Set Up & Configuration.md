@@ -63,7 +63,7 @@ aishwarya.hariharan@ibm.com
 ---
 #### 4. Confirm watsonx Orchestrate Access
 **Once you have completed these steps, verify your watsonx Orchestrate access with these steps:<br>** 
-  - On the [IBM Cloud landing page](cloud.ibm.com), click the top left navigation menu (hamburger menu) and select **Resource List**.<br>
+  - On the [IBM Cloud landing page](https://www.cloud.ibm.com), click the top left navigation menu (hamburger menu) and select **Resource List**.<br>
        _NOTE: If you are a member of multiple IBM Cloud accounts, make sure you are working in the correct account which has the required services available.<br>_
   - On the Resource List page, expand the AI / Machine Learning section, and click the watsonx Orchestrate service name.<br>
   - Click **Launch** watsonx Orchestrate to launch the service.<br>
@@ -154,7 +154,7 @@ If everything is set up correctly, you’ll see a list of available ADK CLI comm
 _Now that you've installed the ADK, it's time to connect it to your watsonx Orchestrate SaaS instance so that you can deploy your agents directly to your SaaS environment._
 
 *For the series of steps here, you can access watsonx Orchestrate by following the steps below:*
-  - On the [IBM Cloud landing page](cloud.ibm.com), click the top left navigation menu (hamburger menu) and select **Resource List**.<br>
+  - On the [IBM Cloud landing page](https://www.cloud.ibm.com), click the top left navigation menu (hamburger menu) and select **Resource List**.<br>
        _NOTE: If you are a member of multiple IBM Cloud accounts, make sure you are working in the correct account which has the required services available.<br>_
   - On the Resource List page, expand the AI / Machine Learning section, and click the watsonx Orchestrate service name.<br>
   - Click **Launch** watsonx Orchestrate to launch the service.<br>
@@ -195,7 +195,7 @@ orchestrate env activate <environment-name> -u <Service-instance-url>
 For example: 
 
 ```bash
-% orchestrate env activate mywxoibm --api-key 5rD345smIXweoaZUUjlw66V-fSKcTO8iQOh_v5awrFre
+orchestrate env activate mywxoibm --api-key 5rD345smIXweoaZUUjlw66V-fSKcTO8iQOh_v5awrFre
 ```
 
 You will be prompted to enter your WXO API key. Paste the API key you created above in the terminal and hit Enter on your keyboard to confirm. 
