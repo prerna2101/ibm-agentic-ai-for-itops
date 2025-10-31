@@ -131,8 +131,6 @@ source envadk/bin/activate
 >
 > [Click to learn more](https://developer.watson-orchestrate.ibm.com/)
 
-Click to learn more
-
 Enter the following commands into your terminal:
 
 ```bash
