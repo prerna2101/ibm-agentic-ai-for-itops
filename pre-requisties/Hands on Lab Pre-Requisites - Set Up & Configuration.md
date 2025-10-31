@@ -125,6 +125,14 @@ source envadk/bin/activate
 
 ### 5 – Install and Validate ADK
 
+> _Wait what is ADK??_
+> 
+> The IBM watsonx Orchestrate Agent Development Kit (ADK) is a set of tools designed to make it easy to build and deploy agents using IBM watsonx Orchestrate. It is packaged as a Python library and command line tool that allows builders to configure agents that run on the IBM watsonx Orchestrate platform. The ADK also supports integrating agents and tools built on other frameworks.
+>
+> [Click to learn more](https://developer.watson-orchestrate.ibm.com/)
+
+Click to learn more
+
 Enter the following commands into your terminal:
 
 ```bash
