@@ -35,6 +35,8 @@ Customize your setup based on your selected lab track.
 ### IBMid Creation Instructions
 
 #### 1. Create IBMid
+**NOTE: If you already have an existing IBMid from a previous enagement, with which you can log in, please feel free to use that and skip to the next step to provide an email confirmation.**
+
 **To access an environment for the lab, please follow the instructions here as a part of the pre requisites.<br>** 
   - Start by accessing the IBMid registration page. [IBMid Creation](https://www.ibm.com/account/reg/us-en/signup?formid=urx-19776)<br>
   - Enter the required information in the fields provided, such as email address, name, company, and country.<br>
