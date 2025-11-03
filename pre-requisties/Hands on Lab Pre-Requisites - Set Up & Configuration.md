@@ -35,7 +35,7 @@ Customize your setup based on your selected lab track.
 ### IBMid Creation Instructions
 
 #### 1. Create IBMid
-**NOTE: If you already have an existing IBMid from a previous enagement, with which you can log in, please feel free to use that and skip to the next step to provide an email confirmation.**
+_**NOTE: If you already have an existing IBMid from a previous enagement, with which you can log in, please feel free to use that and skip to the next step to provide an email confirmation.**_
 
 **To access an environment for the lab, please follow the instructions here as a part of the pre requisites.<br>** 
   - Start by accessing the IBMid registration page. [IBMid Creation](https://www.ibm.com/account/reg/us-en/signup?formid=urx-19776)<br>
@@ -85,7 +85,7 @@ aishwarya.hariharan@ibm.com
 ### 1 – Install Python 3.13+
 *We need a compatible Python version because the watsonx Orchestrate ADK relies on modern language features and libraries that are only supported in Python 3.13 or higher*.
 
-Make sure **Python 3.13 or above** is installed. 
+Install **Python 3.13 or above** on your machine. 
 [Download Python](https://www.python.org/downloads/)
 
 ---
@@ -104,7 +104,7 @@ For the completion of the labs, we will provide you with the repository you will
 In your terminal now enter: 
 
 ```bash
-python -m venv envadk
+python3.13 -m venv envadk
 source envadk/bin/activate
 ```
 *A virtual environment isolates dependencies, preventing conflicts with other Python projects and ensuring a clean setup for the ADK.*
