@@ -72,46 +72,32 @@ aishwarya.hariharan@ibm.com
 
 ##  Step 2 - Local Machine Setup
 
-  - [1 – Install Python 3.11+](#1--install-python-311+)
-  - [2 – Clone the Repository](#2--clone-the-repository)
-  - [3 – Navigate into the Project Folder](#3--navigate-into-the-project-folder)
-  - [4 – Create and Activate a Virtual Environment](#4--create-and-activate-a-virtual-environment)
-  - [5 – Install and Validate ADK](#5--install-and-validate-adk)
-  - [6 – Activate Environment](#6--activate-environment)
+  - [1 – Install Python 3.13+](#1--install-python-313+)
+  - [2 – Prep to Clone GitHub Repository](#2--prep-to-clone-GitHub-Repository)
+  - [3 – Create and Activate a Virtual Environment](#3--create-and-activate-a-virtual-environment)
+  - [4 – Install and Validate ADK](#4--install-and-validate-adk)
+  - [5 – Activate Environment](#5--activate-environment)
 
 ---
 
-### 1 – Install Python 3.11+
-*We need a compatible Python version because the watsonx Orchestrate ADK relies on modern language features and libraries that are only supported in Python 3.11 or higher*.
+### 1 – Install Python 3.13+
+*We need a compatible Python version because the watsonx Orchestrate ADK relies on modern language features and libraries that are only supported in Python 3.13 or higher*.
 
-Make sure **Python 3.11 or above** (up to 3.13) is installed. 
+Make sure **Python 3.13 or above** is installed. 
 [Download Python](https://www.python.org/downloads/)
 
 ---
 
-### 2 – Clone the Repository
+### 2 – Prep to Clone GitHub Repository
+For the completion of the labs, we will provide you with the repository you will need to clone at the start of the event. 
 
-In your terminal enter the following:
-
-```bash
-git clone https://github.com/aishwarya-hariharan/ibm-agentic-ai-for-itops.git
-```
 **NOTE: If you do not have Git you will need to get free Git CLI from - https://git-scm.com/**
 
 *Cloning the repo gives you access to all the pre-built scripts, YAML files, and configurations required for agent creation and orchestration.*
 
 ---
 
-### 3 – Navigate into the Project Folder
-
-To ensure you are in the correct place, in your terminal enter the following:
-
-```bash
-cd AgenticAIforITOps/<HandsonLab\ Track>
-```
----
-
-### 4 – Create and Activate a Virtual Environment
+### 3 – Create and Activate a Virtual Environment
 
 In your terminal now enter: 
 
@@ -123,7 +109,7 @@ source envadk/bin/activate
 
 ---
 
-### 5 – Install and Validate ADK
+### 4 – Install and Validate ADK
 
 > _Wait what is ADK??_
 > 
@@ -155,7 +141,7 @@ If everything is set up correctly, you’ll see a list of available ADK CLI comm
 
 ---
 
-### 6 – Activate Environment
+### 5 – Activate Environment
 
 _Now that you've installed the ADK, it's time to connect it to your watsonx Orchestrate SaaS instance so that you can deploy your agents directly to your SaaS environment._
 
