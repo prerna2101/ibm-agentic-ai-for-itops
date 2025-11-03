@@ -94,7 +94,7 @@ Make sure **Python 3.11 or above** (up to 3.13) is installed.
 In your terminal enter the following:
 
 ```bash
-git clone <gitrepo>
+git clone https://github.com/aishwarya-hariharan/ibm-agentic-ai-for-itops.git
 ```
 **NOTE: If you do not have Git you will need to get free Git CLI from - https://git-scm.com/**
 
