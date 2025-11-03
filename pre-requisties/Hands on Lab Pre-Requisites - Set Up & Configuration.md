@@ -104,7 +104,7 @@ For the completion of the labs, we will provide you with the repository you will
 In your terminal now enter: 
 
 ```bash
-python3.13 -m venv envadk
+python3 -m venv envadk
 source envadk/bin/activate
 ```
 *A virtual environment isolates dependencies, preventing conflicts with other Python projects and ensuring a clean setup for the ADK.*
@@ -183,7 +183,7 @@ Go back to your terminal session and run the following command:
 ```bash
 orchestrate env add -n <environment-name> -u <Service-instance-url>
 
-orchestrate env activate <environment-name> -u <Service-instance-url>
+orchestrate env activate <environment-name> --api-key <your-api-key>
 ```
 
 For example: 
