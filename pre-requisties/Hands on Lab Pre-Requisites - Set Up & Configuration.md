@@ -201,10 +201,16 @@ orchestrate env activate <environment-name> -u <Service-instance-url>
 For example: 
 
 ```bash
-orchestrate env activate mywxoibm --api-key 5rD345smIXweoaZUUjlw66V-fSKcTO8iQOh_v5awrFre
+orchestrate env add -n mytestenv -u https://api.us-south.watson-orchestrate.cloud.ibm.com/instances/1d34d19c-bf90-447b-a9f9-122be17fdae5i
+
+orchestrate env activate mytestenv --api-key m77y491hZNMUEj9bQcddexqZl_UnkFeuQRvAaHEt8Nkwi
 ```
 
-You will be prompted to enter your WXO API key. Paste the API key you created above in the terminal and hit Enter on your keyboard to confirm. 
+You can verify by listing the environments. 
+
+```bash
+orchestrate env list
+```
 
 ![APIInformation](images/APIInformation.png)
 
