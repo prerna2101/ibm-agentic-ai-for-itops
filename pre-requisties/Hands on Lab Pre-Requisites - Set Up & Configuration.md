@@ -188,7 +188,7 @@ In the Create IBM Cloud API key page do the following:
 
 ![KeyInformation](images/KeyInformation.png)
 
-Go back to your terminal session and run the folowing command:
+Go back to your terminal session and run the following command:
 
 **Replace <environment-name> with a name of your choice for your environment and <Service-instance-url> with the service instance URL you copied earlier.**
 
