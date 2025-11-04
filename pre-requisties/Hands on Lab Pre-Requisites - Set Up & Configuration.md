@@ -70,7 +70,8 @@ aishwarya.hariharan@ibm.com
   - On the Resource List page, expand the AI / Machine Learning section, and click the watsonx Orchestrate service name.<br>
   - Click **Launch** watsonx Orchestrate to launch the service.<br>
 
-_**When you click on Launch watsonx Orchestrate and if you run into the following error "It got cloudy in here", please replace "https://cloud.ibm.com/" with "https://us-south.watson-orchestrate.cloud.ibm.com/" and keep the remainder the same "landing/auth?crn=..."._
+_**When you click on Launch watsonx Orchestrate and if you run into the following error "It got cloudy in here", please replace "https://cloud.ibm.com/" with "https://us-south.watson-orchestrate.cloud.ibm.com/" and keep the remainder the same "landing/auth?crn=...".**_
+
 
 ![CloudyIssue](images/cloudy_issue.png)
 
