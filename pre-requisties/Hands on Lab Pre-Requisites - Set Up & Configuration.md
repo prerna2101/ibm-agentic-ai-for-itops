@@ -109,6 +109,8 @@ source envadk/bin/activate
 ```
 *A virtual environment isolates dependencies, preventing conflicts with other Python projects and ensuring a clean setup for the ADK.*
 
+**Note: Windows PowerShell users can refer to the steps [here](windows-powershell.md)**
+
 ---
 
 ### 4 – Install and Validate ADK
