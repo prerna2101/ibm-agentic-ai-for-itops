@@ -100,6 +100,7 @@ For the completion of the labs, we will provide you with the repository you will
 ---
 
 ### 3 – Create and Activate a Virtual Environment
+**Note: Windows PowerShell users can refer to the steps [here](windows-powershell.md)**
 
 In your terminal now enter: 
 
@@ -108,8 +109,6 @@ python3 -m venv envadk
 source envadk/bin/activate
 ```
 *A virtual environment isolates dependencies, preventing conflicts with other Python projects and ensuring a clean setup for the ADK.*
-
-**Note: Windows PowerShell users can refer to the steps [here](windows-powershell.md)**
 
 ---
 
