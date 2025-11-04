@@ -1,4 +1,4 @@
-# IBM Agentic AI Lab Setup (Windows)
+# IBM Agentic AI Lab step for virtual environment activation (Windows PowerShell only)
 
 This guide covers initial local machine setup using **PowerShell** on **Windows**.
 
