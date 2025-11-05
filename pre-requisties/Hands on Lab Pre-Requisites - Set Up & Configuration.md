@@ -88,9 +88,9 @@ _**When you click on Launch watsonx Orchestrate and if you run into the followin
 ---
 
 ### 1 – Install Python 3.13+
-*We need a compatible Python version because the watsonx Orchestrate ADK relies on modern language features and libraries that are only supported in Python 3.13 or higher*.
+*We need a compatible Python version because the watsonx Orchestrate ADK relies on modern language features and libraries that are only supported in Python 3.13*.
 
-Install **Python 3.13 or above** on your machine. 
+Install **Python 3.13** on your machine. 
 [Download Python](https://www.python.org/downloads/)
 
 ---
@@ -143,7 +143,7 @@ If everything is set up correctly, you’ll see a list of available ADK CLI comm
 
 ![Help](images/orchestrate_help.png)
 
-**Note: If you encounter issues, please ensure your Python version is 3.11 or higher (up to 3.13). Depending on your system setup, you may need to use the python3 and pip3 commands explicitly, rather than python and pip.**
+**Note: If you encounter issues, please ensure your Python version is 3.13. Depending on your system setup, you may need to use the python3 and pip3 commands explicitly, rather than python and pip.**
 
 *Installing the watsonx Orchestrate ADK provides the core tools for building and managing agents.* 
 
