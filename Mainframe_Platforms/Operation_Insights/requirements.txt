@@ -1,0 +1,5 @@
+ibm_watson_machine_learning
+pyyaml>=6.0
+requests>=2.31.0
+typing-extensions>=4.8.0
+python-dotenv

@@ -1,0 +1,7 @@
+requests
+pandas
+ibm-watson-machine-learning
+python-dotenv
+ibm_watsonx_ai
+typing
+ibm-watsonx-orchestrate==1.10.0
